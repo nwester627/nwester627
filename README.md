@@ -1,98 +1,76 @@
-<h1 align="center">Nicolas Wester</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3366FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%26+Python+Specialist;Building+Scalable+Web+Applications" alt="Typing Animation" />
+  <img src="assets/banner.svg" width="100%" alt="Nicolas Wester — Full Stack Developer" />
 </p>
 
 <p align="center">
-  <a href="https://www.nicolaswester.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hugo&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/nicolaswester" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:nicolaswester@nicolaswester.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/nwester627?tab=followers">
-    <img src="https://img.shields.io/github/followers/nwester627?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  </a>
-</p>
-
----
-
-## About Me
-
-<p>
-I'm a <b>Full Stack Developer</b> from <b>Winter Haven, Florida</b>, with over <b>3 years of professional experience</b>.<br>
-I specialize in building <b>scalable applications</b> and translating complex requirements into clean, maintainable code.<br>
-I’m also passionate about <b>mentoring junior developers</b> and improving team productivity.
-</p>
-
-<p align="left">
-  Currently building <a href="https://www.nicolaswester.com"><b>hired.io</b></a>, a full-stack job application tracker <br>
-  Pursuing a <b>B.S. in Computer Science</b> at <b>Western Governors University</b> (Expected 2026) <br>
-  Experienced in <b>modernizing legacy applications</b>, <b>API development</b>, and <b>cloud-based deployments</b>
+  <img src="assets/player-card.svg" width="100%" alt="Player 1: Nicolas Wester. Class: Full Stack Engineer. Faction: Delos Insurance Solutions. Hometown: Orlando, FL. Finisher: The Workflow Dashboard." />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nwester627&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Nicolas Wester's GitHub Stats"/>
+  Full stack developer with nearly 5 years of building web apps, currently owning internal tooling at <b>Delos Insurance Solutions</b>.<br />
+  Off the clock: pro wrestling, video games, and lately, recompiling the classics I grew up on.
 </p>
 
----
+<img src="assets/header-title-reign.svg" width="100%" alt="Current title reign" />
 
-## Featured Projects
+### Software Engineer · Delos Insurance Solutions
+<sub>February 2026 – present</sub>
 
-### [hired.io](https://www.nicolaswester.com)
-A full-stack app to track job applications and manage interviews.  
-<b>Tech Stack</b>: React, Tailwind CSS, Python, FastAPI, PostgreSQL
+- **Main event:** building a customizable workflow dashboard so teams can shape the tool around how they actually work
+- **Own the internal tooling,** including streamlined compliance tooling and agent management
+- **Contributing to the architecture** of the Next-Gen Portal, Delos's primary product
+- **Automated manual processes** like IVANS generation and SLA fallbacks, cutting lead time for non-technical teams by about 50%
+- **Leveled up on the backend:** API development, database management, microservices, AWS, CI/CD pipelines, Playwright and Tableau
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,python,fastapi,postgres&theme=dark" alt="hired.io tech stack" />
+<img src="assets/header-move-list.svg" width="100%" alt="Move list" />
+
+<p align="center">
+  <img src="assets/move-list.svg" width="100%" alt="Move list: React, TypeScript, Next.js and TanStack; SQL, Postgres and MongoDB; REST APIs, Node, Python and FastAPI; AWS, Docker and CI/CD; Playwright testing; Tableau; PHP, Laravel, Angular and Firebase." />
 </p>
 
----
-
-### [EasyTask](https://github.com/nwester627/EasyTask)
-A social to-do list app with collaborative features and real-time updates.  
-<b>Tech Stack</b>: React Native, Firebase, Tailwind CSS
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,firebase,tailwind&theme=dark" alt="EasyTask tech stack" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,nodejs,python,fastapi,postgres,mysql,mongodb,aws,docker,githubactions,git,vercel,angular,laravel,php,firebase,html,css&perline=11&theme=dark" alt="Tech stack icons" />
 </p>
 
----
+<img src="assets/header-stage-select.svg" width="100%" alt="Stage select" />
 
-## Tech Stack
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript"/><br>TypeScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript"/><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/><br>Python</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" height="48" alt="PHP"/><br>PHP</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML"/><br>HTML</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS"/><br>CSS</td>
+    <td width="50%" valign="top">
+      <a href="https://political-project-azure.vercel.app"><img src="assets/stage-01.svg" width="100%" alt="City Hall stage: Political Transparency" /></a>
+      A civic engagement app with interactive maps and charts that make political data easier to follow.<br />
+      <a href="https://political-project-azure.vercel.app"><b>▶ Play</b></a> · <a href="https://github.com/nwester627/PoliticalTransparencyProject">Source</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.nicolaswester.com"><img src="assets/stage-02.svg" width="100%" alt="Home Arena stage: nicolaswester.com" /></a>
+      My portfolio: projects, résumé and a working contact form in one fast single-page app.<br />
+      <a href="https://www.nicolaswester.com"><b>▶ Play</b></a> · <a href="https://github.com/nwester627/ReactPortfolio2.0">Source</a>
+    </td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React"/><br>React</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js"/><br>Next.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" height="48" alt="Angular"/><br>Angular</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind"/><br>Tailwind</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI"/><br>FastAPI</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" height="48" alt="Laravel"/><br>Laravel</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/><br>AWS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/><br>Docker</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="Postgres"/><br>Postgres</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"/><br>MongoDB</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48" alt="Firebase"/><br>Firebase</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/><br>Git</td>
+    <td width="50%" valign="top">
+      <a href="https://bes-plumbing.vercel.app"><img src="assets/stage-03.svg" width="100%" alt="Main Street stage: client sites" /></a>
+      Landing pages for local businesses, built and deployed end to end.<br />
+      <a href="https://bes-plumbing.vercel.app"><b>▶ BES Plumbing</b></a> · <a href="https://maddysonpointcleaning.vercel.app"><b>▶ Maddy's On Point Cleaning</b></a> · <a href="https://fttr.vercel.app"><b>▶ FTTR</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nwester627/Hired.io"><img src="assets/stage-04.svg" width="100%" alt="Training Gym stage: hired.io, in progress" /></a>
+      A job search platform for finding roles, tracking applications and managing interviews in one place.<br />
+      <a href="https://github.com/nwester627/Hired.io"><b>Source</b></a>
+    </td>
   </tr>
 </table>
 
+<p align="center">
+  <img src="assets/challenger.svg" width="100%" alt="Here comes a new challenger: classic game recomp projects coming soon" />
+</p>
 
+<p align="center">
+  <img src="assets/continue.svg" width="100%" alt="Continue? Insert coin to connect" />
+</p>
+
+<p align="center">
+  <a href="https://www.nicolaswester.com"><img src="https://img.shields.io/badge/PORTFOLIO-nicolaswester.com-ff3e9a?style=for-the-badge&labelColor=17142e" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/nicolaswester"><img src="https://img.shields.io/badge/LINKEDIN-nicolaswester-3ee6ff?style=for-the-badge&labelColor=17142e&logo=linkedin&logoColor=3ee6ff" alt="LinkedIn" /></a>
+  <a href="mailto:nicolaswester@nicolaswester.com"><img src="https://img.shields.io/badge/EMAIL-say_hi-ffd23f?style=for-the-badge&labelColor=17142e&logo=gmail&logoColor=ffd23f" alt="Email" /></a>
+</p>
